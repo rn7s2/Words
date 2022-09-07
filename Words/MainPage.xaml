@@ -36,7 +36,6 @@
                         <ViewCell>
                             <Label FontSize="Medium"
                                    Text="{Binding Word}"
-                                   TextColor="White"
                                    HorizontalOptions="CenterAndExpand"
                                    VerticalOptions="Center"/>
                         </ViewCell>
